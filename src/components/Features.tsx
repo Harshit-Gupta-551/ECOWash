@@ -8,7 +8,7 @@ const features = [
     description: 'Our innovative pedal-powered mechanism eliminates the need for electricity, making it perfect for remote locations and reducing your carbon footprint.',
   },
   {
-    image: 'https://images.unsplash.com/photo-1519699047748-de8e457a634e?auto=format&fit=crop&q=80',
+    image: 'https://api.deepai.org/job-view-file/d3f67bb9-5273-4b50-8f78-f6edc07625e5/outputs/output.jpg',
     title: 'Water Efficient',
     description: 'Advanced water recycling system uses 90% less water than traditional washing machines, helping preserve our precious water resources.',
   },
