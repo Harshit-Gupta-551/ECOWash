@@ -19,7 +19,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold mb-1">Email Us</h3>
-                  <p className="text-gray-600">contact@ecowash.com</p>
+                  <p className="text-gray-600">contact@ecospin.com</p>
                 </div>
               </div>
 
