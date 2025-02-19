@@ -4,7 +4,7 @@ import { Check } from 'lucide-react';
 const plans = [
   {
     name: 'Basic',
-    price: '2,000',
+    price: '599',
     features: [
       'Manual washing mechanism',
       'Water-efficient design',
@@ -16,7 +16,7 @@ const plans = [
   },
   {
     name: 'Pro',
-    price: '5,000',
+    price: '899',
     features: [
       'Enhanced washing mechanism',
       'Ultra water-efficient design',
@@ -29,7 +29,7 @@ const plans = [
   },
   {
     name: 'Enterprise',
-    price: '10,000',
+    price: '1499',
     features: [
       'Industrial washing mechanism',
       'Maximum water efficiency',
@@ -68,7 +68,7 @@ export default function Pricing() {
               <div className="p-8">
                 <h3 className="text-2xl font-bold text-gray-800 mb-4">{plan.name}</h3>
                 <div className="mb-6">
-                  <span className="text-4xl font-bold text-gray-800">Rs{plan.price}</span>
+                  <span className="text-4xl font-bold text-gray-800">${plan.price}</span>
                   <span className="text-gray-600">/unit</span>
                 </div>
                 <ul className="space-y-4 mb-8">
