@@ -34,7 +34,7 @@ export default function Navbar() {
       <div className="container mx-auto px-6">
         <div className="relative flex items-center justify-between h-20">
           <div className="flex items-center">
-            <span className="text-2xl font-bold text-green-600">EcoWash</span>
+            <span className="text-2xl font-bold text-green-600">EcoSpin</span>
           </div>
 
           {/* Desktop menu */}
