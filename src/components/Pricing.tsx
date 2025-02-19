@@ -4,7 +4,7 @@ import { Check } from 'lucide-react';
 const plans = [
   {
     name: 'Basic',
-    price: '2,000',
+    price: ' 2,000',
     features: [
       'Manual washing mechanism',
       'Water-efficient design',
@@ -16,7 +16,7 @@ const plans = [
   },
   {
     name: 'Pro',
-    price: '5,000',
+    price: ' 5,000',
     features: [
       'Enhanced washing mechanism',
       'Ultra water-efficient design',
@@ -29,7 +29,7 @@ const plans = [
   },
   {
     name: 'Enterprise',
-    price: '10,000',
+    price: ' 10,000',
     features: [
       'Industrial washing mechanism',
       'Maximum water efficiency',
