@@ -29,7 +29,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold mb-1">Call Us</h3>
-                  <p className="text-gray-600">+1 (555) 123-4567</p>
+                  <p className="text-gray-600">+91 7987020871</p>
                 </div>
               </div>
 
@@ -39,7 +39,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold mb-1">Visit Us</h3>
-                  <p className="text-gray-600">123 Eco Street, Green City, 12345</p>
+                  <p className="text-gray-600">NMIMS UNIVERSITY, INDORE, 452001</p>
                 </div>
               </div>
             </div>
