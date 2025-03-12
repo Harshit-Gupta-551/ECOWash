@@ -46,7 +46,7 @@ export default function Hero() {
           </div>
           <div className="relative">
             <img
-              src="https://api.deepai.org/job-view-file/f9d3ff6f-3d8b-41c0-9441-3bcacbfddbb4/outputs/output.jpg"
+              src="https://api.deepai.org/job-view-file/4494e2fd-0d4d-479f-9865-f0ef9b234dfc/outputs/output.jpg"
               alt="Eco-friendly washing"
               className="rounded-2xl shadow-2xl animate-float"
             />
