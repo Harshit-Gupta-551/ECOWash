@@ -46,7 +46,7 @@ export default function Hero() {
           </div>
           <div className="relative">
             <img
-              src="https://api.deepai.org/job-view-file/4494e2fd-0d4d-479f-9865-f0ef9b234dfc/outputs/output.jpg"
+              src="https://i0.wp.com/practicalselfreliance.com/wp-content/uploads/2020/07/Pedal-Powered-Washing-Machine-2.jpg?w=600&ssl=1"
               alt="Eco-friendly washing"
               className="rounded-2xl shadow-2xl animate-float"
             />
